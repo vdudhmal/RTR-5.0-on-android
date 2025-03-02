@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- About Text View -->
+    <TextView
+        android:id="@+id/aboutText"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textAppearance="@style/TextAppearance.Material3.BodyLarge"
+        android:autoLink="web"
+        android:linksClickable="true"
+        android:padding="16dp" />
+
+    <!-- Bottom Navigation Bar -->
+    <include layout="@layout/bottom_nav" />
+
+</LinearLayout>
