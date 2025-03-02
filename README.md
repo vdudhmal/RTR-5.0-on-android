@@ -1,4 +1,4 @@
-# RTR 5.0 on Android
+# RTR5.0 on Android
 
 This repository contains all **OpenGL programmable pipeline assignments** for the **Android platform** from the **AstroMediComp's Real-Time Rendering (RTR)** course, conducted from **April 2023 to October 2024**.
 
@@ -17,7 +17,7 @@ The assignments focus on modern OpenGL techniques and concepts, implemented on A
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/vdudhmal/RTR5.0-android.git
+    git clone https://github.com/vdudhmal/RTR5.0-Android.git
     ```
 
 2. Open the project in **Android Studio**.
