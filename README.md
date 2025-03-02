@@ -9,5 +9,3 @@ This repository features implementations of modern OpenGL techniques, covering t
 - Lighting models (diffuse, Phong, Blinn-Phong, per-vertex, per-fragment)
 - Texture mapping (basic textures, procedurally generated textures)
 - Framebuffers & post-processing
-
-This repository is a valuable resource for students and professionals interested in enhancing their understanding of real-time rendering and OpenGL development on Android.
